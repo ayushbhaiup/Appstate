@@ -2,7 +2,7 @@
   "name": "Web-tool",
   "version": "2.1.0",
   "description": "Canvo tool by Mr Devil",
-  "main": "web.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
